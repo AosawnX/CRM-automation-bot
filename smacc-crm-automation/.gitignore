@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Playwright / traces / screenshots
+session.json
+*.png
+*.webm
+*.zip
+playwright-report/
+test-results/
+trace.zip
+
+# OS / editor
+.DS_Store
+.vscode/
