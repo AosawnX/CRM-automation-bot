@@ -361,3 +361,5 @@ with sync_playwright() as p:
 
     log(f"Test complete. Records processed: {processed}")
     browser.close()
+
+
