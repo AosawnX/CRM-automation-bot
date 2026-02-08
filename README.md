@@ -136,8 +136,6 @@ with sync_playwright() as p:
     browser.close()
 ```
 
-> ⚠️ **Do not commit `session.json`**. It is ignored via `.gitignore`.
-
 ---
 
 ## ▶️ Running the Automation
